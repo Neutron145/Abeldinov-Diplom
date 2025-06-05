@@ -1,2 +1,6 @@
-# FQW
-My final qualifying work about direct and inverse Sturm-Liouville Problem 
+# ВКР
+Программа для выпускной квалификационной работы для решения прямой и обратной задач Штурма-Лиувилля
+
+---
+Абельдинов Рафаэль  
+2025
